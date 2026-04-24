@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "three": "^0.184.0",
+    "three-gltf-loader": "^1.111.0"
+  }
+}
